@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
@@ -34,8 +33,8 @@ li .active {
 
 .hero {
   height: 100vh;
-  background-color: #00000059;
   background: url('/img/black.png');
+  background-color: #00000059;
   background-blend-mode: color-dodge;
   background-repeat: no-repeat;
   background-position: center;
