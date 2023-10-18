@@ -33,9 +33,9 @@ li .active {
 
 .hero {
   height: 100vh;
-  background: url('img/black.png');
+  background: url('/img/black.png');
   background-color: #00000059;
-  background-blend-mode: color-dodge;
+  background-blend-mode: darken;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
